@@ -3,7 +3,17 @@ html{
 	align-content: center;
 	background-color: lavender;
 }
-
+label{
+	display: inline;
+	margin: 10px 0 10px 0;
+	font-size: 15px;
+}
+input[type=submit]{
+	background-color: green;
+	font-size: 18px;
+	padding: 14px 40px;
+	border-radius: 12px;
+}
 h1{
 	font-size: 30px;
 	margin-bottom: 15px;
