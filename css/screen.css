@@ -1,0 +1,13 @@
+html{
+	text-align: center;
+	align-content: center;
+	background-color: lavender;
+}
+
+@media screen and (min-width: 480px) {
+	html{
+		text-align: left;
+		align-content: left;
+		background-color: #5F9EA0;
+	}
+}
