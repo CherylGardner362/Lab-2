@@ -3,10 +3,14 @@ html{
 	align-content: center;
 	background-color: lavender;
 }
-label{
+p{
 	display: inline;
 	margin: 25px;
 	font-size: 15px;
+}
+input[type=text, type=email type=phone type=date]{
+	border-color: purple;
+	border-radius: 20%;
 }
 input[type=submit]{
 	background-color: green;
