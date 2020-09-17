@@ -3,12 +3,7 @@ html{
 	align-content: center;
 	background-color: lavender;
 }
-p{
-	display: inline;
-	margin: 25px;
-	font-size: 15px;
-}
-input[type=text type=email type=phone type=date]{
+input[type=text], input[type=email], input[type=phone], input[type=date]{
 	border-color: purple;
 	border-radius: 20%;
 }
