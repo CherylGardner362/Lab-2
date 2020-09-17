@@ -11,12 +11,17 @@
   <h1>Cheryl's Demographic Form</h1>
   <h3>Please answer the questions below</h3>
   <form action="demo-info.html">
-    <p><label>First Name: <input type="text" name="first_name" placeholder="Put First Name Here"></label></p>
-    <p><label>Last Name: <input type="text" name="last_name" placeholder="Put Last Name Here"></label></p>
-    <p><label>Email: <input type="text" name="email" placeholder="Leave Email Address"></label></p>
-    <p><label>Phone Number: <input type="text" name="phone" placeholder="Place phone number"></label></p>
-    <p><label>Birthday: <input type="text" name="birthday" placeholder="MM/DD/YYYY"></label></p>
-    <input type="submit" value="Submit" class="submit-button">
+    <fieldset>
+      <legend>Basic Form</legend>
+      <p><label>First Name: <input type="text" name="first_name" placeholder="Put First Name Here"></label></p>
+      <p><label>Last Name: <input type="text" name="last_name" placeholder="Put Last Name Here"></label></p>
+      <p><label>Email: <input type="email" name="email" placeholder="Leave Email Address"></label></p>
+      <p><label>Phone Number: <input type="phone" name="phone" placeholder="Place phone number"></label></p>
+      <p><label>Birthday: <input type="date" name="birthday" placeholder="MM/DD/YYYY"></label></p>
+      <div>
+        <input type="submit" value="Submit" class="submit-button">
+      </div>
+    </fieldset>
   </form>
 </body>
 </html>
