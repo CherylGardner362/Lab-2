@@ -21,4 +21,10 @@ h3{
 		align-content: center;
 		background-color: #5F9EA0;
 	}
+	h1{
+		font-size: 30px;
+	}
+	h3{
+		font-size: 18px;
+	}
 }
