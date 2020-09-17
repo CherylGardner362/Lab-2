@@ -5,13 +5,13 @@ html{
 }
 
 h1{
-	font-size: 64px;
+	font-size: 30px;
 	margin-bottom: 15px;
 	font-family: 'Lucida Console',monospace;
 	font-weight: bold;
 }
 h3{
-	font-size: 40px;
+	font-size: 18px;
 	margin-bottom: 10px;
 	font-family: 'Comic Sans MS',sans-serif;
 }
@@ -22,9 +22,9 @@ h3{
 		background-color: #5F9EA0;
 	}
 	h1{
-		font-size: 30px;
+		font-size: 64px;
 	}
 	h3{
-		font-size: 18px;
+		font-size: 40px;
 	}
 }
