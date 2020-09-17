@@ -4,10 +4,21 @@ html{
 	background-color: lavender;
 }
 
+h1{
+	font-size: 64px;
+	margin-bottom: 15px;
+	font-family: 'Lucida Console',monospace;
+	font-weight: bold;
+}
+h3{
+	font-size: 40px;
+	margin-bottom: 10px;
+	font-family: 'Comic Sans MS',sans-serif;
+}
 @media screen and (min-width: 480px) {
 	html{
 		text-align: left;
-		align-content: left;
+		align-content: center;
 		background-color: #5F9EA0;
 	}
 }
