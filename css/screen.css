@@ -5,7 +5,7 @@ html{
 }
 label{
 	display: inline;
-	margin: 10px 0 10px 0;
+	margin: 25px;
 	font-size: 15px;
 }
 input[type=submit]{
@@ -13,6 +13,7 @@ input[type=submit]{
 	font-size: 18px;
 	padding: 14px 40px;
 	border-radius: 12px;
+	margin: 25px;
 }
 h1{
 	font-size: 30px;
