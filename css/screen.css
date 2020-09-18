@@ -33,4 +33,11 @@ div{
 	font-size: 20px;
 	padding-top: 10px;
 }
-
+@media screen and (min-width: 480px){
+	h1{
+		width: 75%;
+	}
+	h3{
+		width: 50%;
+	}
+}
