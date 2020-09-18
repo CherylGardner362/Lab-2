@@ -20,7 +20,9 @@ legend{
 label{
 	display: block;
 	text-align: center;
+	font-weight: bold;
 	height: 30px;
+	width: 150px;
 	padding-bottom: 10px;
 }
 div{
@@ -34,10 +36,16 @@ div{
 	padding-top: 10px;
 }
 @media screen and (min-width: 480px){
+	html{
+		background-color: aquamarine;
+	}
 	h1{
-		width: 75%;
+		font-size: 40px
 	}
 	h3{
-		width: 50%;
+		font-size: 32px;
+	}
+	input{
+
 	}
 }
