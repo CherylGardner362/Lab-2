@@ -1,0 +1,16 @@
+html{
+	text-align: center;
+	align-content: center;
+	background-color: lavender;
+}
+h1{
+	font-size: 24px;
+}
+h3{
+	font-size: 16px;
+}
+form{
+	display: block;
+	text-align: center;
+	background-color: white;
+}
