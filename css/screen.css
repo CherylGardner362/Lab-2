@@ -15,9 +15,9 @@ fieldset{
 	background-color: white;
 }
 legend{
-	padding-top: 10px;
+	margin-top: 10px;
 	border: 2px dashed;
-	font-size: 16px;
+	font-size: 24px;
 	border-color: white;
 }
 label{
