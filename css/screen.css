@@ -27,6 +27,11 @@ label{
 	height: 30px;
 	padding-bottom: 10px;
 }
+input{
+	width: 75%;
+	box-sizing: border-box;
+	border: 1px solid;
+}
 div{
 	height: 30px;
 	width: 150px;
