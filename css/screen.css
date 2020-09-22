@@ -61,11 +61,10 @@ body{
 		background-color: grey;
 	}
 	label{
-		width: 40%;
-		font-size: 24px;
+		font-size: 36px;
 	}
 	input{
-		width: 60%;
+		height: 200px;
 	}
 	div{
 		background-color: darkslategray;
