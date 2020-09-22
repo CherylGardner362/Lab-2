@@ -59,6 +59,13 @@ body{
 	fieldset{
 		background-color: grey;
 	}
+	label{
+		float: left;
+		font-size: 24px;
+	}
+	input{
+		width: 60%;
+	}
 	div{
 		background-color: darkslategray;
 		text-decoration-color: gold;
