@@ -62,9 +62,10 @@ body{
 	}
 	label{
 		font-size: 36px;
+		margin-top: 30px;
 	}
 	input{
-		height: 15px;
+		height: 50px;
 		margin-bottom: 10px
 	}
 	div{
