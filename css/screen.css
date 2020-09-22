@@ -62,13 +62,14 @@ body{
 	}
 	label{
 		font-size: 36px;
-		margin-top: 30px;
+		margin-top: 85px;
 	}
 	input{
 		height: 50px;
 		margin-bottom: 10px
 	}
 	div{
+		margin-top: 50px;
 		background-color: darkslategray;
 		text-decoration-color: gold;
 	}
